@@ -1,0 +1,38 @@
+200104004067_Coskun_AliAsim_HW4/
+│
+│
+├────── part1 - expert_system_in_prolog/
+│	│
+│	├── main.pl 
+│	│
+│	├── map.pl
+│	│
+│	├── objects.pl
+│	│
+│	├── personnel.pl
+│	│
+│	└── places.pl
+│
+│
+│
+├──────	part2 - iris_decision_tree/	
+│	│
+│	├── python/
+│	│ 	├── build_tree.py
+│	│ 	├── decision_tree_made_by_python.png
+│	│ 	│
+│	│ 	└── iris/
+│	│ 		├── bezdekIris.data
+│	│ 		├── Index
+│	│ 		├── iris.data
+│	│ 		└── iris.names
+│	│
+│	└── prolog/
+│		│
+│		└── classify.pl
+│
+│
+├────── directory_structures.txt
+│
+│
+└────── README.md

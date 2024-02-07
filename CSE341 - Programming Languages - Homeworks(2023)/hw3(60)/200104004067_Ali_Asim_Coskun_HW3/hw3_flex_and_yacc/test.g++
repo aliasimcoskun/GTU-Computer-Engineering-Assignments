@@ -1,0 +1,26 @@
+(+ 1b4 3b5)
+(- 2b3 1b6)
+(* 3b7 2b8)
+(/ 4b9 1b2)
+
+(* 4b1 6b1 8b1)
+
+(if 1b1 (add 2b2 3b3) (sub 4b4 1b1))
+(if 0b1 (mul 3b3 4b4) (div 4b4 2b2))
+
+(def add x y (+ x y))
+(add 1b4 1b5)
+
+(def sub x y (- x y))
+(sub 2b3 1b6)
+
+(def mul x y (* x y))
+(mul 3b7 2b8)
+
+(def div x y (/ x y))
+(div 4b9 1b2)
+
+(+ (add 1b1 2b2) (sub 3b3 1b1))
+(* (mul 2b2 3b3) (div 4b4 2b2))
+
+(exit)
