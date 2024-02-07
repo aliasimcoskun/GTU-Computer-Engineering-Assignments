@@ -1,2 +1,2 @@
-# Gebze_Technical_University_Assignments
+# GTU-Computer-Engineering-Assignments
  My solutions to assignments of Computer Science at GTU.
